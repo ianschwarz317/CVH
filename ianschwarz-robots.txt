@@ -1,0 +1,11 @@
+# robots.txt for ianschwarz.com
+
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://ianschwarz.com/sitemap.xml
+
+# Disallow admin/private pages (if any)
+Disallow: /admin/
+Disallow: /private/
